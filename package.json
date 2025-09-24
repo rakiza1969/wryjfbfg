@@ -1,0 +1,8 @@
+{
+  "name": "wryjfbfg",
+  "version": "1.0.0",
+  "description": "Static website deployed via Rakiza platform",
+  "scripts": {
+    "start": "echo \"Static site - no build required\""
+  }
+}
